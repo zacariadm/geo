@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "Salto",
+    "maps": [
+        {
+            "name": "Salto",
+            "id": "8758bc9f-f660-4b20-b798-b7928aae27ef",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Value",
+                    "id": "358e931e-7545-4a45-974e-aef7253631e9",
+                    "expectedControlType": "Vector3",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "78374252-535e-4a04-ae2d-ccd54cc67e80",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
